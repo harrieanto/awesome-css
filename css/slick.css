@@ -1,0 +1,42 @@
+.slick-prev{
+    left:10px;
+}
+
+.slick-next {
+    right:10px;
+}
+
+.slick-prev,
+.slick-next
+{
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+    background: var(--bg-blacklighter);
+}
+
+.slider img {
+	width: 100%;
+	height: 450px;
+}
+
+.slider .slider-content{
+	position: relative;
+}
+
+.slider .slider-content > div {
+	position: absolute;
+	width: 100%;
+	height: 450px;
+	background: var(--bg-retro);
+}
+
+.slider .slider-content > div:hover {
+	background: var(--bg-blacklighter);
+}
+
+@media only screen and (max-width: 45em) {  /* 540px */
+	.slider img{
+		height: auto;
+	}
+}

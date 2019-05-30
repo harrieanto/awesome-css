@@ -1,0 +1,287 @@
+/**
+ * ===============================
+ * Background Preset
+ * ===============================
+ */
+:root{
+	--bg-night: #f4f3ef;
+	--bg-retro: rgba(0, 0, 0, .035);
+	--bg-slack: #4d394b;
+	--bg-warning: #ff9800;
+	--bg-success: #46a049;
+	--bg-info: #2196F3;
+	--bg-danger: #f44336;
+	--bg-default: #ddd;
+	--bg-sakura: #FF003c;
+	--bg-pink: #d91b5b;
+	--bg-red: #FF6161;
+	--bg-redlighter: rgba(255, 100, 100, 0.8);
+	--bg-blue: #2AAAFF;
+	--bg-bluelighter: rgba(0, 170, 255, 0.5);
+	--bg-bluekish: rgba(0, 170, 255, 0.7);
+	--bg-lime: #00FFAA;
+	--bg-limelighter: rgba(212, 255,42,0.9);
+	--bg-aqua: #55D4FF;
+	--bg-aqualighter: rgba(0, 170, 255, 0.5);
+	--bg-black: #333;
+	--bg-blacklighter: rgba(0, 0, 0, 0.7);
+	--bg-blackish: #333;
+	--bg-semiclouds: #fafafa;
+	--bg-clouds: #ecf0f1;
+	--bg-white: #ffffff;
+	--bg-whitelighter: rgba(255, 255, 255, 0.9);
+	--bg-silver: #bdc3c7;
+	--bg-concrete: #95a5a6;
+	--bg-yellow: #d2bd0e;
+	--bg-yellowlighter: rgba(255, 255, 42, 0.5);
+	--bg-transparent: transparent;
+	--bg-greensea: #16a085;
+	--bg-pomegranate: #c0392b;
+	--bg-alizarin: #e74c3c;
+	--bg-pumpkin: #d35400;
+	--bg-carrot: #e67e22;
+	--bg-orange: #f39c12;
+	--bg-orangelighter: rgba(255, 212, 42, 0.9);
+	--bg-sunflower: #f1c40f;
+	--bg-wisteria: #8e44ad;
+	--bg-amethyst: #9b59b6;
+	--bg-belizehole: #2980b9;
+	--bg-peter-rever: #3498db;
+	--bg-nephritis: #27ae60;
+	--bg-purple: #9c27b0;
+	--bg-emerald: #2ecc71;
+	--bg-asbestos: #7f8c8d;
+	--bg-midnightblue: #2c3e50;
+	--bg-wetasphalt: #34495e;
+	--bg-turquoise: #1abc9c;
+	--bg-pinklighter: rgba(255, 85, 127, 0.9);
+}
+
+.bg-night{
+	background: var(--bg-night);
+}
+
+.bg-retro{
+	background: var(--bg-retro);
+}
+
+.default {
+	background: #fafafa !important;
+}
+
+.success {
+	background: var(--bg-success) !important;
+}
+
+.success:hover {
+	background: #46a049;
+}
+
+.info {
+	background: var(--bg-info) !important;
+}
+
+.info:hover {
+	background: #0b7dda;
+}
+
+.warning {
+	background: var(--bg-warning) !important;
+}
+
+.warning:hover {
+	background: #e68a00;
+}
+
+.danger {
+	background: var(--bg-danger) !important;
+}
+
+.danger:hover {
+	background: #da190b;
+}
+
+.default {
+	background: #e7e7e7 !important; 
+	color: #000 !important;
+}
+
+.default:hover {
+	background: #ddd;
+}
+
+.slack{
+	background: var(--bg-slack) !important;
+}
+
+.bg-blue{
+	background: var(--bg-blue) !important;
+}
+
+.bg-lime{
+	background: var(--bg-lime) !important;
+}
+
+.bg-aqua{
+	background: var(--bg-aqua) !important;
+}
+
+.bg-bluelighter{
+	background: var(--bg-bluelighter) !important;
+}
+
+.bg-aqualighter{
+	background: var(--bg-aqualighter) !important;
+}
+
+.bg-bluelighter.bolder{
+	background: var(--bg-bluekish) !important;
+}
+
+.bg-blacklighter{
+    background: var(--bg-blacklighter) !important;
+}
+
+.bg-black{
+    background: var(--bg-black) !important;
+}
+
+.bg-blackish{
+	background: var(--bg-blackish) !important;
+}
+
+.bg-whitelighter{
+    background: var(--bg-whitelighter) !important;
+}
+
+.bg-white{
+    background: var(--bg-white) !important;
+}
+
+.bg-redlighter{
+    background: var(--bg-redlighter) !important;
+}
+
+.bg-red{
+    background: var(--bg-red) !important;
+}
+
+.bg-sakura{
+    background: var(--bg-sakura) !important;
+}
+
+.bg-orangelighter{
+    background: var(--bg-orangelighter) !important;
+}
+
+.bg-pink{
+    background: var(--bg-pink) !important;
+}
+
+.bg-pinklighter{
+    background: var(--bg-pinklighter) !important;
+}
+
+.bg-limelighter{
+	background: var(--bg-limelighter) !important;
+}
+
+.bg-turquoise{
+	background: var(--bg-turquoise) !important;
+}
+
+.bg-wetasphalt{
+	background: var(--bg-wetasphalt) !important;
+}
+
+.bg-midnightblue{
+	background: var(--bg-midnightblue) !important;
+}
+
+.bg-clouds{
+	background: var(--bg-clouds) !important;
+}
+
+.bg-semiclouds{
+	background: var(--bg-semiclouds) !important;
+}
+
+.bg-silver{
+	background: var(--bg-silver) !important;
+}
+
+.bg-concrete{
+	background: var(--bg-concrete) !important;
+}
+
+.bg-asbestos{
+	background: var(--bg-asbestos) !important;
+}
+
+.bg-emerald{
+	background: var(--bg-emerald) !important;
+}
+
+.bg-purple{
+	background: var(--bg-purple) !important;
+}
+
+.bg-nephritis{
+	background: var(--bg-nephritis) !important;
+}
+
+.bg-peter-rever{
+	background: var(--bg-peter-rever) !important;
+}
+
+.bg-belizehole{
+	background: var(--bg-belizehole) !important;
+}
+
+.bg-amethyst{
+	background: var(--bg-amethyst) !important;
+}
+
+.bg-wisteria{
+	background: var(--bg-wisteria) !important;
+}
+
+.bg-sunflower{
+	background: var(--bg-sunflower) !important;
+}
+
+.bg-orange{
+	background: var(--bg-orange) !important;
+}
+
+.bg-carrot{
+	background: var(--bg-carrot) !important;
+}
+
+.bg-pumpkin{
+	background: var(--bg-pumpkin) !important;
+}
+
+.bg-alizarin{
+	background: var(--bg-alizarin) !important;
+}
+
+.bg-pomegranate{
+	background: var(--bg-pomegranate) !important;
+}
+
+.bg-greensea{
+	background: var(--bg-greensea) !important;
+}
+
+.bg-transparent{
+	background: var(--bg-transparent) !important;
+}
+
+.bg-yellowlighter{
+    background: var(--bg-yellowlighter) !important;
+}
+
+.bg-yellow{
+	background: var(--bg-yellow) !important;
+}

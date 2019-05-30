@@ -1,0 +1,245 @@
+/**
+ * ===============================
+ * Color Preset
+ * ===============================
+ */
+.text-blue{
+	color: #2AAAFF !important;
+}
+
+.text-lime{
+	color: #00FFAA !important;
+}
+
+.text-aqua{
+	color: #55D4FF !important;
+}
+
+.text-black{
+	color: #333 !important;
+}
+
+.text-blacklighter{
+    color: var(--bg-blacklighter) !important;
+}
+
+.text-oldestred{
+	color: #c44736 !important;
+}
+
+.text-red{
+	color: #FF6161 !important;
+}
+
+.text-redlighter{
+	color: rgba(255, 85, 85, 0.5) !important;
+}
+
+
+.text-orange{
+	color: rgb(255, 212, 42) !important;
+}
+
+.text-aqualighter{
+    color: rgba(0, 255, 212, 0.5) !important;
+}
+
+.text-yellowlighter{
+    color: rgba(255, 255, 42, 0.5) !important;
+}
+
+.text-limelighter{
+    color: rgba(42, 255, 42, 0.5) !important;
+}
+
+.text-bluelighter{
+    color: rgba(0, 170, 255, 0.5) !important;
+}
+
+.text-transparent{
+    color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.text-turquoise{
+	color: #1abc9c !important;
+}
+
+.text-wetasphalt{
+	color: #34495e !important;
+}
+
+.text-midnightblue{
+	color: #2c3e50 !important;
+}
+
+.text-clouds{
+	color: #ecf0f1 !important;
+}
+
+.text-silver{
+	color: #bdc3c7 !important;
+}
+
+.text-concrete{
+	color: #95a5a6 !important;
+}
+
+.text-asbestos{
+	color: #7f8c8d !important;
+}
+
+.text-emerald{
+	color: #2ecc71 !important;
+}
+
+.text-purple{
+	color: #9c27b0 !important;
+}
+
+.text-nephritis{
+	color: #27ae60 !important;
+}
+
+.text-peterever{
+	color: #3498db !important;
+}
+
+.text-belizehole{
+	color: #2980b9 !important;
+}
+
+.text-amethyst{
+	color: #9b59b6 !important;
+}
+
+.text-wisteria{
+	color: #8e44ad !important;
+}
+
+.text-sunflower{
+	color: #f1c40f !important;
+}
+
+.text-orange{
+	color: #f39c12 !important;
+}
+
+.text-carrot{
+	color: #e67e22 !important;
+}
+
+.text-pumpkin{
+	color: #d35400 !important;
+}
+
+.text-alizarin{
+	color: #e74c3c !important;
+}
+
+.text-pomegranate{
+	color: #c0392b !important;
+}
+
+.text-greensea{
+	color: #16a085 !important;
+}
+
+.text-amber{
+	color:#ffc107 !important;
+}
+
+.text-aqua{
+	color:#00ffff !important;
+}
+
+.text-blue{
+	color:#2196F3 !important;
+}
+
+.text-light-blue{
+	color:#87CEEB !important;
+}
+
+.text-brown{
+	color:#795548 !important;
+}
+
+.text-cyan{
+	color:#00bcd4 !important;
+}
+
+.text-blue-grey{
+	color:#607d8b !important;
+}
+
+.text-green{
+	color:#4CAF50 !important;
+}
+
+.text-light-green{
+	color:#8bc34a !important;
+}
+
+.text-indigo{
+	color:#3f51b5 !important;
+}
+
+.text-khaki{
+	color:#b4aa50 !important;
+}
+
+.text-lime{
+	color:#cddc39 !important;
+}
+
+.text-orange{
+	color:#ff9800 !important;
+}
+
+.text-deep-orange{
+	color:#ff5722 !important;
+}
+
+.text-pink{
+	color:#e91e63 !important;
+}
+
+.text-purple{
+	color:#9c27b0 !important;
+}
+
+.text-deep-purple{
+	color:#673ab7 !important;
+}
+
+.text-sand{
+	color:#fdf5e6 !important;
+}
+
+.text-teal{
+	color:#009688 !important;
+}
+
+.text-yellow{
+	color:#d2be0e !important;
+}
+
+.text-white{
+	color:#fff !important;
+}
+
+.text-whitelighter{
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.text-grey{
+	color:#757575 !important;
+}
+
+.text-light-grey{
+	color:#f1f1f1 !important;
+}
+
+.text-dark-grey{
+	color:#3a3a3a !important;
+}

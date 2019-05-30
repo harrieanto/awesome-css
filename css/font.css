@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+/**
+ *
+ * Font Type
+ * Source Sans Pro
+ * 
+ */
+@font-face{
+  font-family: 'Source Sans Pro Regular';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-Regular.otf') format('opentype');
+}
+
+@font-face{
+  font-family: 'Source Sans Pro Light';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-Light.otf') format('otf');
+}
+
+@font-face{
+  font-family: 'Source Sans Pro ExtraLight';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-ExtraLight.otf') format('opentype-fonts');
+}
+
+@font-face{
+  font-family: 'Source Sans Pro Black';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-Black.otf') format('otf');
+}
+
+
+@font-face{
+  font-family: 'Source Sans Pro Semi Bold';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-SemiBold.otf') format('otf');
+}
+
+@font-face{
+  font-family: 'Source Sans Pro Bold';
+  src: url('../fonts/Source_Sans_Pro/SourceSansPro-Bold.otf') format('otf');
+}
